@@ -1,0 +1,13 @@
+<p>Edit Category</p>
+
+<form class="edit-form" #EditCategory="ngForm" (ngSubmit)="updateCategory(EditCategory)">
+  <div class="form-group">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" [(ngModel)]="category.name" ngModel required>
+  </div>
+  <div class="form-group">
+    <label for="description">Description:</label>
+    <textarea id="description" name="description" [(ngModel)]="category.description" required></textarea>
+  </div>
+  <button type="submit" class="submit-btn">Update Category</button>
+</form>

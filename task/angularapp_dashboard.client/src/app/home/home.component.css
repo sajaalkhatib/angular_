@@ -1,0 +1,30 @@
+.flower-shape {
+  font-family: 'Arial', sans-serif;
+  font-size: 40px;
+  color: #fff;
+  background-color: #f48fb1; 
+  text-align: center;
+  padding: 15px;
+  position: relative;
+  display: inline-block;
+}
+
+  .flower-shape::before,
+  .flower-shape::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: #f48fb1;
+    border-radius: 50%;
+  }
+
+  .flower-shape::before {
+    top: -15px;
+    left: -15px;
+  }
+
+  .flower-shape::after {
+    top: -15px;
+    right: -15px;
+  }

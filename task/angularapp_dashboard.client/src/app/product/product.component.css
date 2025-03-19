@@ -1,0 +1,49 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: sans-serif;
+}
+
+thead {
+  background-color: #f2f2f2;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  border-bottom: 2px solid #ddd;
+}
+
+td:last-child {
+  text-align: center;
+}
+
+button {
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  margin: 0 5px;
+}
+
+.edit-btn {
+  background-color: #FF4081; /* وردي فاتح */
+  color: white;
+}
+
+.delete-btn {
+  background-color: #FF3366; /* وردي غامق */
+  color: white;
+}
+
+.add-btn {
+  background-color: #FF80AB; /* لون وردي متوسط لزر الإضافة */
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  margin: 0 5px;
+}

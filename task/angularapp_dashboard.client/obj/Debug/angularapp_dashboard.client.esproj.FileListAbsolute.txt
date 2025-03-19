@@ -1,0 +1,3 @@
+C:\Users\Orange\Desktop\AngularApp_Dashboard\angularapp_dashboard.client\obj\Debug\angularapp_dashboard.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Angular_Tasks\Dashboard_Task\AngularApp_Dashboard\angularapp_dashboard.client\obj\Debug\angularapp_dashboard.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Downloads\Angular_Tasks-main\Angular_Tasks-main\Dashboard_Task\AngularApp_Dashboard\angularapp_dashboard.client\obj\Debug\angularapp_dashboard.client.esproj.CoreCompileInputs.cache

@@ -1,0 +1,79 @@
+/* تنسيق الجدول */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Arial', sans-serif;
+  margin-bottom: 30px; /* المسافة بين الجدول والعناصر الأخرى */
+}
+
+thead {
+  background-color: #f48fb1; /* وردي فاتح */
+}
+
+th, td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #fce4ec; /* خلفية فاتحة للرأس */
+  font-weight: bold;
+  border-bottom: 2px solid #ddd;
+}
+
+td:last-child {
+  text-align: center;
+}
+
+/* تنسيق الأزرار */
+button {
+  padding: 8px 15px;
+  border: none;
+  cursor: pointer;
+  margin: 5px 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.edit-btn {
+  background-color: #f48fb1; /* وردي */
+  color: white;
+  padding: 8px 16px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+  .edit-btn:hover {
+    background-color: #f06292; /* وردي داكن عند المرور */
+  }
+
+.delete-btn {
+  background-color: #e25081; /* أحمر */
+  color: white;
+  padding: 8px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+  .delete-btn:hover {
+    background-color: #d32f2f; /* أحمر داكن عند المرور */
+  }
+
+.add-btn {
+  background-color: #f48fb1; /* وردي */
+  color: white;
+  padding: 12px 25px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 15px 0;
+  display: inline-block;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+  .add-btn:hover {
+    background-color: #f06292; /* وردي داكن عند المرور */
+  }

@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "Kj+OxyY5WrwG4fAbZLZg+kiRhCoHPgH7KcWZcJJ3MU0=",
+  "Source": "AngularApp_Dashboard.Server",
+  "BasePath": "_content/AngularApp_Dashboard.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\Downloads\\Angular_Tasks-main\\Angular_Tasks-main\\Dashboard_Task\\AngularApp_Dashboard\\angularapp_dashboard.client\\angularapp_dashboard.client.esproj",
+      "Version": 2,
+      "Source": "angularapp_dashboard.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

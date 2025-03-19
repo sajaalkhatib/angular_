@@ -1,0 +1,50 @@
+.add-form {
+  width: 450px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #fce4ec; /* لون وردي فاتح للخلفية */
+  border: 1px solid #f48fb1; /* وردي غامق للإطار */
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+input[type="text"],
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #f48fb1;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-size: 16px;
+  color: #555;
+}
+
+textarea {
+  resize: vertical;
+}
+
+button {
+  background-color: #FF4081; /* وردي فاتح */
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+  button:hover {
+    background-color: #FF3366; /* وردي غامق عند المرور */
+  }

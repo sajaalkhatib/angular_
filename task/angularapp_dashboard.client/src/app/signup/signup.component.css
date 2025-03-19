@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800&display=swap');
+
+/* الإعدادات العامة */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* الجسم الرئيسي */
+.body {
+  background: linear-gradient(45deg, #f8c8d0, #f6f5f7); /* خلفية لينة مع تدرج ألوان وردي */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+/* الحاوية التي تحتوي على النماذج */
+.container {
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.15), 0 10px 10px rgba(0,0,0,0.1);
+  width: 380px;
+  padding: 40px;
+  text-align: center;
+  position: relative;
+  transition: all 0.3s ease-in-out;
+}
+
+/* إخفاء زر الراديو */
+input[type="radio"] {
+  display: none;
+}
+
+/* استايل النموذج */
+form {
+  display: none;
+  flex-direction: column;
+}
+
+input {
+  background-color: #fef1f2; /* خلفية وردية فاتحة */
+  border: 2px solid #f8a5b2; /* خط وردي */
+  padding: 12px 15px;
+  margin: 8px 0;
+  width: 100%;
+  border-radius: 10px;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+  input:focus {
+    border-color: #ff6f61; /* خط وردي غامق عند التركيز */
+    outline: none;
+  }
+
+button {
+  border-radius: 25px;
+  border: none;
+  background-color: #f8a5b2; /* اللون الرئيسي الوردي */
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 12px;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+  button:hover {
+    background-color: #c3606f; /* تأثير التغير عند التمرير */
+  }
+
+/* إظهار النموذج عند تحديد التبويب */
+#sign-in-tab:checked ~ .form-container .sign-in {
+  display: flex;
+}
+
+#sign-up-tab:checked ~ .form-container .sign-up {
+  display: flex;
+}
+
+/* استايل أزرار التبديل */
+.tabs {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+  .tabs label {
+    cursor: pointer;
+    font-weight: bold;
+    padding: 12px 20px;
+    border-radius: 30px;
+    background-color: #f8a5b2; /* لون وردي فاتح */
+    color: #fff;
+    font-size: 16px;
+    transition: 0.3s;
+    user-select: none;
+  }
+
+#sign-in-tab:checked ~ .tabs label[for="sign-in-tab"],
+#sign-up-tab:checked ~ .tabs label[for="sign-up-tab"] {
+  background-color: #da7887; /* التبديل إلى اللون الوردي الغامق عند التحديد */
+  color: white;
+}
+
+/* تأثير الزر عند المرور */
+.tabs label:hover {
+  background-color: #f8a5b2; /* اللون الوردي الفاتح عند المرور */
+  color: #ff6f61;
+}
+
+/* تحسين الاستجابة */
+@media (max-width: 768px) {
+  .container {
+    width: 90%;
+    padding: 20px;
+  }
+}

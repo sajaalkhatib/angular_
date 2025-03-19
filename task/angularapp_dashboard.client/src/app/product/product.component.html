@@ -1,0 +1,29 @@
+<p>product works!</p>
+
+<a class="add-btn" routerLink="AddProduct">Add Product</a>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>CategoryID</th>
+
+      <th>Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of Products">
+      <td>{{item.id}}</td>
+      <td>{{item.name}}</td>
+      <td>{{item.categoryId}}</td>
+
+      
+      <td>
+       <a routerLink="/home/EditProduct/{{item.id}}">Edit</a> 
+      <button class="delete-btn">Delete</button>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
