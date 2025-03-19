@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "jql+6jFVkEB09IjgFtdI1N9CQHAn24f9XpVcHpYTEdU=",
+  "Source": "saja_angular.Server",
+  "BasePath": "_content/saja_angular.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\source\\repos\\saja_angular\\saja_angular.client\\saja_angular.client.esproj",
+      "Version": 2,
+      "Source": "saja_angular.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

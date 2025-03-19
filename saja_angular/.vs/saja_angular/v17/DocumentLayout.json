@@ -1,0 +1,784 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\parent\\parent.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\parent\\parent.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\child\\child.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\child\\child.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\child\\child.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\child\\child.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\parent\\parent.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\parent\\parent.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product\\product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\product\\product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product-details\\product-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\product-details\\product-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product-details\\product-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\product-details\\product-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\register\\register.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\register\\register.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\register\\register.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\register\\register.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\servies_api\\api.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\servies_api\\api.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\add-product\\add-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\admin\\add-product\\add-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\add-product\\add-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\admin\\add-product\\add-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product\\product.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\product\\product.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\addcategory\\addcategory.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\addcategory\\addcategory.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\category\\category.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\category\\category.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\category\\category.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\category\\category.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\admin.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\admin\\admin.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\admin.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\admin\\admin.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\addcategory\\addcategory.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\addcategory\\addcategory.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\addcategory\\addcategory.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\addcategory\\addcategory.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\addcategory\\addcategory.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\addcategory\\addcategory.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\register\\register.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\register\\register.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\servies_api\\api.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\servies_api\\api.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\register\\register.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\register\\register.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\navbar\\navbar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\navbar\\navbar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product\\product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\product\\product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product-details\\product-details.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\product-details\\product-details.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2B5A8A7-F5B4-4ED2-8D03-7F9E56BA7DEA}|saja_angular.client\\saja_angular.client.esproj|solutionrelative:saja_angular.client\\src\\app\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "child.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\child\\child.component.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\child\\child.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\child\\child.component.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\child\\child.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-18T08:39:10.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "parent.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\parent\\parent.component.html",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\parent\\parent.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\parent\\parent.component.html",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\parent\\parent.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-18T10:00:49.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-15T19:24:25.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "child.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\child\\child.component.html",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\child\\child.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\child\\child.component.html",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\child\\child.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-19T00:26:30.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "parent.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\parent\\parent.component.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\parent\\parent.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\parent\\parent.component.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\parent\\parent.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-18T08:41:41.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "category.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\category\\category.component.html",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\category\\category.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\category\\category.component.html",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\category\\category.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-15T19:21:06.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-18T11:16:49.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "navbar.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\navbar\\navbar.component.html",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-15T17:23:07.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-15T17:27:46.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "product.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product\\product.component.html",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\product\\product.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product\\product.component.html",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\product\\product.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-15T19:22:11.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "product.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product\\product.component.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\product\\product.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product\\product.component.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\product\\product.component.ts",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvw4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-15T19:28:06.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "category.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\category\\category.component.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\category\\category.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\category\\category.component.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\category\\category.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-18T19:17:16.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "product-details.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product-details\\product-details.component.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\product-details\\product-details.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product-details\\product-details.component.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\product-details\\product-details.component.ts",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-15T19:42:34.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "product-details.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product-details\\product-details.component.html",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\product-details\\product-details.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product-details\\product-details.component.html",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\product-details\\product-details.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-15T19:46:22.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\index.html",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\index.html",
+              "RelativeToolTip": "saja_angular.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-15T17:24:09.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "register.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\register\\register.component.html",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\register\\register.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\register\\register.component.html",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\register\\register.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-15T17:24:27.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "register.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\register\\register.component.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\register\\register.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\register\\register.component.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\register\\register.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T11:21:31.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "api.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\servies_api\\api.service.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\servies_api\\api.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\servies_api\\api.service.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\servies_api\\api.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-15T19:00:37.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "product.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product\\product.component.spec.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\product\\product.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product\\product.component.spec.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\product\\product.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T20:17:39.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "add-product.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\add-product\\add-product.component.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\admin\\add-product\\add-product.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\add-product\\add-product.component.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\admin\\add-product\\add-product.component.ts",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-18T19:47:52.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "add-product.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\add-product\\add-product.component.html",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\admin\\add-product\\add-product.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\add-product\\add-product.component.html",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\admin\\add-product\\add-product.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-18T19:55:47.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "insertcategory.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.html",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.html",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-18T19:44:22.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "insertcategory.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.spec.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.spec.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-18T20:11:38.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "addcategory.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\addcategory\\addcategory.component.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\addcategory\\addcategory.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\addcategory\\addcategory.component.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\addcategory\\addcategory.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-18T11:04:33.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "category.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\category\\category.component.spec.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\category\\category.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\category\\category.component.spec.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\category\\category.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-18T19:17:14.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "category.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\category\\category.component.css",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\category\\category.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\category\\category.component.css",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\category\\category.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-15T19:22:09.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "admin.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\admin.component.html",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\admin\\admin.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\admin.component.html",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\admin\\admin.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-18T18:09:57.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "insertcategory.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-18T19:41:13.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "navbar.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\navbar\\navbar.component.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\navbar\\navbar.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\navbar\\navbar.component.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\navbar\\navbar.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T11:10:15.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "insertcategory.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.css",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.css",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\admin\\insertcategory\\insertcategory.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-18T19:44:21.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "admin.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\admin.component.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\admin\\admin.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\admin\\admin.component.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\admin\\admin.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-18T18:28:54.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "addcategory.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\addcategory\\addcategory.component.html",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\addcategory\\addcategory.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\addcategory\\addcategory.component.html",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\addcategory\\addcategory.component.html",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-18T11:15:37.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "addcategory.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\addcategory\\addcategory.component.spec.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\addcategory\\addcategory.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\addcategory\\addcategory.component.spec.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\addcategory\\addcategory.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-18T18:45:26.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "addcategory.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\addcategory\\addcategory.component.css",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\addcategory\\addcategory.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\addcategory\\addcategory.component.css",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\addcategory\\addcategory.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-18T19:08:28.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-15T18:58:00.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\app.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-18T11:25:03.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\login\\login.component.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\login\\login.component.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T20:31:49.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\login\\login.component.html",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\login\\login.component.html",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\login\\login.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-15T17:24:57.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "register.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\register\\register.component.css",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\register\\register.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\register\\register.component.css",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\register\\register.component.css",
+              "ViewState": "AgIAAOACAAAAAAAAAAAiwPYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-15T17:24:30.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "api.service.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\servies_api\\api.service.spec.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\servies_api\\api.service.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\servies_api\\api.service.spec.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\servies_api\\api.service.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T11:41:21.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "register.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\register\\register.component.spec.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\register\\register.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\register\\register.component.spec.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\register\\register.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T11:38:39.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "navbar.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\navbar\\navbar.component.css",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\navbar\\navbar.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\navbar\\navbar.component.css",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\navbar\\navbar.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-15T19:58:47.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T07:47:38.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "product.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product\\product.component.css",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\product\\product.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product\\product.component.css",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\product\\product.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-15T19:21:56.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "product-details.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product-details\\product-details.component.css",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\product-details\\product-details.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\product-details\\product-details.component.css",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\product-details\\product-details.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-15T19:57:28.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "login.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\login\\login.component.css",
+              "RelativeDocumentMoniker": "saja_angular.client\\src\\app\\login\\login.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\saja_angular\\saja_angular.client\\src\\app\\login\\login.component.css",
+              "RelativeToolTip": "saja_angular.client\\src\\app\\login\\login.component.css",
+              "ViewState": "AgIAAOACAAAAAAAAAAAiwPsCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-15T17:24:41.407Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

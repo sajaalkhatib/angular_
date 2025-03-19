@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "Zu1Ck+JsTBWo9vmH6wo9jlulSnaqtNnM9pAjEYLA7IA=",
+  "Source": "sajatask.Server",
+  "BasePath": "_content/sajatask.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\sajatask.client.esproj",
+      "Version": 2,
+      "Source": "sajatask.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

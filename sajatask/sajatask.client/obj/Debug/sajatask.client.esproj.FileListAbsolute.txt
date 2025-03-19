@@ -1,0 +1,2 @@
+C:\Users\Orange\source\repos\sajatask\sajatask.client\obj\Debug\sajatask.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\angular\Angular-tasks-\sajatask\sajatask.client\obj\Debug\sajatask.client.esproj.CoreCompileInputs.cache

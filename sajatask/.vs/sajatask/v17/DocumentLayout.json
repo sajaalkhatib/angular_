@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\sajatask\\sajatask.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|solutionrelative:sajatask.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\sajatask\\sajatask.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|solutionrelative:sajatask.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\sajatask\\sajatask.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|solutionrelative:sajatask.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\sajatask\\sajatask.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|solutionrelative:sajatask.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\sajatask\\sajatask.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|solutionrelative:sajatask.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\sajatask\\sajatask.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|solutionrelative:sajatask.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\sajatask\\sajatask.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|solutionrelative:sajatask.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\sajatask\\sajatask.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|solutionrelative:sajatask.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\sajatask\\sajatask.client\\src\\app\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|solutionrelative:sajatask.client\\src\\app\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\sajatask\\sajatask.client\\src\\app\\navbar\\navbar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|solutionrelative:sajatask.client\\src\\app\\navbar\\navbar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\sajatask\\sajatask.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|solutionrelative:sajatask.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\sajatask\\sajatask.client\\src\\app\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|solutionrelative:sajatask.client\\src\\app\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\sajatask\\sajatask.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|solutionrelative:sajatask.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|c:\\users\\orange\\desktop\\angular\\angular-tasks-\\sajatask\\sajatask.client\\src\\app\\login\\login.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EC46A63D-5F92-457B-BE30-D255F02CCB23}|sajatask.client\\sajatask.client.esproj|solutionrelative:sajatask.client\\src\\app\\login\\login.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "navbar.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeDocumentMoniker": "sajatask.client\\src\\app\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeToolTip": "sajatask.client\\src\\app\\navbar\\navbar.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-15T15:07:02.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\login\\login.component.html",
+              "RelativeDocumentMoniker": "sajatask.client\\src\\app\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\login\\login.component.html",
+              "RelativeToolTip": "sajatask.client\\src\\app\\login\\login.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-15T14:26:23.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "sajatask.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "sajatask.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-15T14:19:11.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "sajatask.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "sajatask.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-15T14:34:26.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\index.html",
+              "RelativeDocumentMoniker": "sajatask.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\index.html",
+              "RelativeToolTip": "sajatask.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-15T14:18:39.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "sajatask.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "sajatask.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-15T14:33:42.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "sajatask.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "sajatask.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-15T14:27:19.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "sajatask.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "sajatask.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-15T14:34:21.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "navbar.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\navbar\\navbar.component.ts",
+              "RelativeDocumentMoniker": "sajatask.client\\src\\app\\navbar\\navbar.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\navbar\\navbar.component.ts",
+              "RelativeToolTip": "sajatask.client\\src\\app\\navbar\\navbar.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-15T15:08:28.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "navbar.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\navbar\\navbar.component.css",
+              "RelativeDocumentMoniker": "sajatask.client\\src\\app\\navbar\\navbar.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\navbar\\navbar.component.css",
+              "RelativeToolTip": "sajatask.client\\src\\app\\navbar\\navbar.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-15T15:15:28.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "sajatask.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "sajatask.client\\src\\app\\app.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-15T17:18:17.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "login.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\login\\login.component.css",
+              "RelativeDocumentMoniker": "sajatask.client\\src\\app\\login\\login.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\login\\login.component.css",
+              "RelativeToolTip": "sajatask.client\\src\\app\\login\\login.component.css",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAawH4BAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-15T14:35:17.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "sajatask.client\\src\\app\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\login\\login.component.ts",
+              "RelativeToolTip": "sajatask.client\\src\\app\\login\\login.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-15T14:29:06.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "login.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\login\\login.component.spec.ts",
+              "RelativeDocumentMoniker": "sajatask.client\\src\\app\\login\\login.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\src\\app\\login\\login.component.spec.ts",
+              "RelativeToolTip": "sajatask.client\\src\\app\\login\\login.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-15T15:09:03.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

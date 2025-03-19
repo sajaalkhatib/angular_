@@ -1,0 +1,2 @@
+C:\Users\Orange\source\repos\saja_angular\saja_angular.client\obj\Debug\saja_angular.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\angular\Angular-tasks-\saja_angular\saja_angular.client\obj\Debug\saja_angular.client.esproj.CoreCompileInputs.cache

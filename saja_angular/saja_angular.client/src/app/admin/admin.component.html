@@ -1,0 +1,23 @@
+<div class="d-flex">
+  <!-- Sidebar -->
+  <div class="bg-dark text-white p-3 vh-100" style="width: 250px;">
+    <h4 class="text-center">My Sidebar</h4>
+    <ul class="nav flex-column">
+      <li class="nav-item">
+        <a class="nav-link text-white" routerLink="/admin/insert">add category</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-white" routerLink="/admin/addproduct">📁 add product</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-white" href="#">⚙️ Settings</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-white" href="#">📞 Contact</a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="content">
+    <router-outlet></router-outlet>
+  </div>
